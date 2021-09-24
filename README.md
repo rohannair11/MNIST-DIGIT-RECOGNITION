@@ -1,2 +1,2 @@
 # MNIST-DIGIT-RECOGNITION
-MNIST Digit recognition using random forest classifier 
+MNIST Digit recognition using Random Forest, Neural Networks for learning tensorflow and sklearn. 
